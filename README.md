@@ -9,7 +9,9 @@ Pentru rezolvarea temei trebuie sa se defineasca doua functii care primesc un pa
 
 Pentru testarea functiei se pot folosi urmatoarele seturi de valori:
 i) $n = 3; 1+2+3 = 6
+
 ii) $n = 10; 1+2+3+4+5+6+7+8+9+10 = 55
+
 iii) $n = 15; 1+2+3+4+5+.....+10+11+12+13+14+15 = 120
 
 Hints:
